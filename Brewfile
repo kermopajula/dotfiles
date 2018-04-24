@@ -26,46 +26,18 @@ brew 'bash'
 brew 'homebrew/dupes/grep'
 
 # Install Binaries
-brew 'awscli'
 brew 'git'
-brew 'hub'
-brew 'tree'
 brew 'mackup'
 brew 'node'
-brew 'trash'
 brew 'wget'
 
-# Development
-brew 'php70', args: ['with-debug', 'without-apache']
-brew 'mariadb'
-
 # Apps
-cask 'aerial'
-cask 'alfred'
-cask 'atom'
-cask 'dash'
 cask 'dropbox'
-cask 'evernote'
 cask 'firefox'
-cask 'fluid'
-cask 'goofy'
 cask 'google-chrome'
-cask 'google-drive'
-cask 'iterm2'
-cask 'mysqlworkbench'
 cask 'phpstorm'
-cask 'rescuetime'
-cask 'screenhero'
-cask 'sequel-pro'
-cask 'skype'
 cask 'slack'
 cask 'sublime-text3'
-cask 'textual'
-cask 'tower'
-cask 'transmit'
-cask 'vagrant'
-cask 'virtualbox'
-cask 'virtualbox-extension-pack'
 cask 'vlc'
 
 # Quicklook
